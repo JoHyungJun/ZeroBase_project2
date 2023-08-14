@@ -1,0 +1,3 @@
+[추가 정보]
+
+- 코드 스키마 반영은 window, intellij 기준 [Ctrl + Alt + L]
